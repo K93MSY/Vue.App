@@ -4,10 +4,7 @@
     <p>
       完成するかはわかりませんが気長に待っていてください
     </p>
-    <h3>開発者情報</h3>
-    <ul>
-      <li><a href="https://github.com/K93MSY" target="_blank" rel="noopener">Github</a></li>
-    </ul>
+    <h3>Made by Vue.js</h3>
   </div>
 </template>
 
